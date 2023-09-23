@@ -288,12 +288,14 @@ footer {
         }
 
         /* mobile phone */
-        @media (max-width: 458px) {
+        @media (max-width: 576px) {
             html {
-                font-size: 50%;
+                font-size: 60%;
             }
 
+
             .simply-countdown>.simply-section {
-                padding: 45px;
-                margin: 3px
+                padding: 35px;
+                margin: 2px;
             }
+        }
