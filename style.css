@@ -288,9 +288,9 @@ footer {
         }
 
         /* mobile phone */
-        @media (max-width: 576px) {
+        @media (max-width: 500px) {
             html {
-                font-size: 60%;
+                font-size: 55%;
             }
 
 
